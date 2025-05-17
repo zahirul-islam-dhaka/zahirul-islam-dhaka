@@ -5,7 +5,7 @@
 ## About Me
 Md. Zahirul Islam, a Professional Master of Development Studies graduate from Jagannath University, excels as a Senior Project Associate at ARCED Foundation. With over 12 years of experience, I’ve managed 100+ projects in data analysis, impact evaluations, and monitoring & evaluation (M&E), collaborating with global partners like the World Bank, Oxfam, and Stanford University. Specializing in statistical tools (Stata, SPSS, R, Python) and visualization platforms (Power BI, Tableau), I design robust M&E systems and actionable dashboards. My work focuses on climate resilience, public health, and sustainable development, with projects like the Climate Risk Index and Healthcare Waste Management. A published researcher, I’m passionate about data-driven insights and mentoring teams. I’m eager to collaborate on open-source data tools and climate-focused initiatives.
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=zahirul-islam-dhaka.zahirul-islam-dhaka)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-Coming%20Soon-blue) <!-- Temporary replacement for visitor badge -->
 
 ## 🏆 Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=zahirul-islam-dhaka&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)

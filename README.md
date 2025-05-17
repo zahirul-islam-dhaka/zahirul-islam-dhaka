@@ -37,6 +37,31 @@ Md. Zahirul Islam, a Professional Master of Development Studies graduate from Ja
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zahirul-islam-dhaka&theme=dracula)
 
 ## 📌 Pinned Projects
-- **[Climate Risk Index](https://github.com/zahirul-islam-dhaka/Climate-Risk-Index)**  
-  Developed a data-driven index to assess climate vulnerabilities across Bangladesh, using Stata and ArcGIS for geospatial analysis. Collaborated with Oxfam and the World Bank.  
-  ![Stata](https://img.shields.io/badge/-Stata-1E4A7D?logo=stata&logoColor=white) ![ArcGIS](https://img.shields.io/badge/-ArcGIS-2E7D32?logo=arc
+
+- **[Air Pollution and Worker Productivity](https://github.com/zahirul-islam-dhaka/Air-Pollution-Worker-Productivity)**  
+  Analyzed the impact of air pollution on worker productivity across industries in Bangladesh, using Stata and survey data for UC San Diego and University of Colorado Denver.  
+  ![Stata](https://img.shields.io/badge/-Stata-1E4A7D?logo=stata&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+- **[Household Air Filter Project](https://github.com/zahirul-islam-dhaka/Household-Air-Filter-Project)**  
+  Conducted field surveys and data analysis to evaluate the effectiveness of air filters in households, creating dashboards for UC San Diego with Power BI.  
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) ![SurveyCTO](https://img.shields.io/badge/-SurveyCTO-FF6F61?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMjU2IDBDMTE0LjYgMCAwIDExNC42IDAgMjU2czExNC42IDI1NiAyNTYgMjU2IDI1Ni0xMTQuNiAyNTYtMjU2U3EyNTYgMTE0LjYgMCAyNTZ6bTE2MCAxOTJIMzY4djMyYzAgMTcuNy0xNC4zIDMyLTMxLjEgMzJIMTkyYy0xNy43IDAtMzItMTQuMy0zMi0zMnYtMzJIMTExLjFjLTE3LjcgMC0zMi0xNC4zLTMyLTMydi04MC44YzAtMTcuNyAxNC4zLT32IDMyLTMyaDQ4di0zMmMwLTE3LjcgMTQuMy0zMiAzMi0zMmgxNDRjMTcuNyAwIDMyIDE0LjMgMzIgMzJ2MzJoNDhjMTcuNyAwIDMyIDE0LjMgMzIgMzJ2ODBjMCAxNy43LTE0LjMgMzItMzIgMzJ6bS00OC0xMTJoLTMydi0zMkgxOTJ2MzJoLTMydi04MGgtNDh2ODBoLTMydi0xMjhjMC0xNy43IDE0LjMtMzIgMzItMzJoMTQ0YzE3LjcgMCAzMiAxNC4zIDMyIDMydjEyOHoiLz48L3N2Zz4=)
+
+- **[Shaping Student Mindsets for Climate Action](https://github.com/zahirul-islam-dhaka/Climate-Action-Mindsets)**  
+  Designed surveys and analyzed student responses to promote climate awareness, using SPSS for the World Bank.  
+  ![SPSS](https://img.shields.io/badge/-SPSS-013366?logo=ibm&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+- **[EZ Bike Battery Market Preferences](https://github.com/zahirul-islam-dhaka/EZ-Bike-Survey)**  
+  Conducted an incentivized survey on battery market preferences, analyzing consumer behavior with SPSS for Stanford University and ADB.  
+  ![SPSS](https://img.shields.io/badge/-SPSS-013366?logo=ibm&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+- **[Healthcare Waste Management Baseline](https://github.com/zahirul-islam-dhaka/Healthcare-Waste-Survey)**  
+  Led data collection and analysis for 18 health facilities in Chittagong Hill Tracts, creating dashboards with Power BI and SurveyCTO for USAID.  
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) ![SurveyCTO](https://img.shields.io/badge/-SurveyCTO-FF6F61?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMjU2IDBDMTE0LjYgMCAwIDExNC42IDAgMjU2czExNC42IDI1NiAyNTYgMjU2IDI1Ni0xMTQuNiAyNTYtMjU2U3EyNTYgMTE0LjYgMCAyNTZ6bTE2MCAxOTJIMzY4djMyYzAgMTcuNy0xNC4zIDMyLTMxLjEgMzJIMTkyYy0xNy43IDAtMzItMTQuMy0zMi0zMnYtMzJIMTExLjFjLTE3LjcgMC0zMi0xNC4zLTMyLTMydi04MC44YzAtMTcuNyAxNC4zLTMyIDMyLTMyaDQ4di0zMmMwLTE3LjcgMTQuMy0zMiAzMi0zMmgxNDRjMTcuNyAwIDMyIDE0LjMgMzIgMzJ2MzJoNDhjMTcuNyAwID32IDE0LjMgMzIgMzJ2ODBjMCAxNy43LTE0LjMgMzItMzIgMzJ6bS00OC0xMTJoLTMydi0zMkgxOTJ2MzJoLTMydi04MGgtNDh2ODBoLTMydi0xMjhjMC0xNy43IDE0LjMtMzIgMzItMzJoMTQ0YzE3LjcgMCAzMiAxNC4zIDMyIDMydjEyOHoiLz48L3N2Zz4=)
+
+- **[Brick Kiln Tracker](https://github.com/zahirul-islam-dhaka/Brick-Kiln-Tracker)**  
+  Designed a system to monitor emissions from brick kilns across 43 districts in Bangladesh, integrating survey data and real-time reporting for the National University of Singapore.  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+- **[Impact Assessment of CDSP IV](https://github.com/zahirul-islam-dhaka/CDSP-IV-Impact-Assessment)**  
+  Assessed the impact of the Char Development and Settlement Project IV in coastal chars, using Stata for statistical analysis in collaboration with IFPRI and IFAD.  
+  ![Stata](https://img.shields.io/badge/-Stata-1E4A7D?logo=stata&logoColor=white)
